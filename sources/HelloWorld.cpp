@@ -1,4 +1,4 @@
-//Hello world programme
+//Привет мир
 #include <iostream>
 #include <string>
 
